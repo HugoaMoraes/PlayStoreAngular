@@ -1,27 +1,44 @@
-# Store
+
+<div align="center">
+<img src="https://github.com/HugoaMoraes/IconDigital/assets/102623594/a6c43865-6821-472b-9c05-65878d4e8780" width="200px" />
+</div>
+
+# Play Store Angular
+
+
+Este projeto foi gerado com o [Angular CLI](https://github.com/angular/angular-cli) na versão 14.1.2.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
+## Author
+
+- [@hugo.amoraes](https://github.com/HugoaMoraes)
+
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Execute o comando `ng serve` para iniciar um servidor de desenvolvimento. Acesse `http://localhost:4200/` no navegador. A aplicação será recarregada automaticamente caso não haja alguma alteração nos arquivos de origem.
 
-## Code scaffolding
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Links
 
-## Build
+<div align="center">
+  <a href="https://linktr.ee/hug.odesign" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/hugoamoraes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5561986391903" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/hugo.amoraes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Info:
 
-## Running unit tests
+Aplicação desenvolvida em angular para estudo do framework.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Application developed in Angular to study the framework.
